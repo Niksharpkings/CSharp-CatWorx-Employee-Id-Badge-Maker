@@ -14,6 +14,7 @@ This was part of an additional course after completing and graduating successful
 
 ## Demo Image:
 
-## e![img](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/NSAdmin/Desktop/UCLAx/CSharp%20with%20js/CSharp-CatWorx-Employee-Id-Badge-Maker/DEMO/CsharpCustomBadgeName.PNG?version%3D1670150217921)
+![image](https://user-images.githubusercontent.com/67552318/209900252-f0c1d0e3-575c-4779-8ab9-6475ca403d7c.png)
 
-![img](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/NSAdmin/Desktop/UCLAx/CSharp%20with%20js/CSharp-CatWorx-Employee-Id-Badge-Maker/DEMO/CsharpRandomUserAPIBadgeName.PNG?version%3D1670149327488)
+![image](https://user-images.githubusercontent.com/67552318/209900366-d48c6cbd-05da-4f8e-9bf5-630b3feee2d2.png)
+
